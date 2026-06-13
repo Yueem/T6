@@ -11,18 +11,7 @@
 安裝完成  在`360Chrome\Chrome\Application\components`下添加 :open_file_folder: ppflash  
 ![image](https://github.com/Yueem/T6/assets/116643627/addc1476-806a-47c8-a788-d4f19c14e76c)  
 重開瀏覽器即可進入了哦~  
-
-
-  
-# :bangbang:瀏覽器推薦(可做可不做)  
-將瀏覽器右上角![image](https://github.com/Yueem/T6/assets/116643627/2c6782d4-8854-42a0-bcbd-caa5627119ad)
-`选项>基本设置`將打开页面更換成```http://zhaijidi.com/```  
-(官方公告此網址維護中有些用戶無法打開，若無法打開，將網址更換為```http://a1.zhaijidi.com/```)  
-![image](https://github.com/Yueem/T6/assets/116643627/51b8ab94-2400-4e6d-9671-0f8a64a1a665)  
-並將默認瀏覽器關閉  
-![image](https://github.com/Yueem/T6/assets/116643627/3b1ab840-7310-470a-a425-4a3814ea36e6)  
-在`界面設置`中取消勾選，如下圖  
-![image](https://github.com/Yueem/T6/assets/116643627/e6a6a1b5-42d2-4b68-a9d4-ae000b940219)  
+ 
 # Flash插件  
 :open_file_folder:ppflash內含:electric_plug:`pepflashplayer32_29_0_0_171.dll`  
 # 測試不同IP的網路延遲  
@@ -37,5 +26,6 @@ ping 121.9.243.212
 ping 114.132.58.132
 ping 134.175.217.176
 ping 119.28.137.173
+
 ```  
 

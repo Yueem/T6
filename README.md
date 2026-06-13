@@ -35,12 +35,12 @@ ping 119.28.137.173
   
 **第六大陸** a1.this6.com  121.9.243.212  
    
-<img width="183" height="110" alt="image" src="https://github.com/user-attachments/assets/7310ad52-c1be-4186-96a0-e624814c429b" />  
+<img width="183" height="110" alt="image" src="https://github.com/user-attachments/assets/7310ad52-c1be-4186-96a0-e624814c429b" />    
 **移動入口t1** t1.7juju.com  114.132.58.132  
    
-<img width="175" height="107" alt="image" src="https://github.com/user-attachments/assets/4cc1c425-b1fe-48d9-8d58-191c827c56c9" />  
+<img width="175" height="107" alt="image" src="https://github.com/user-attachments/assets/4cc1c425-b1fe-48d9-8d58-191c827c56c9" />     
 **移動入口t6** t6.7juju.com  134.175.217.176  
   
-<img width="179" height="104" alt="image" src="https://github.com/user-attachments/assets/5ea3115b-2872-4abf-a425-fd5dc1c88b9a" />  
+<img width="179" height="104" alt="image" src="https://github.com/user-attachments/assets/5ea3115b-2872-4abf-a425-fd5dc1c88b9a" />     
 **海外入口hk** hk.7juju.com 119.28.137.173  
 

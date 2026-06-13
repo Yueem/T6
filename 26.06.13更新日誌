@@ -14,6 +14,9 @@
  
 # Flash插件  
 :open_file_folder:ppflash內含:electric_plug:`pepflashplayer32_29_0_0_171.dll`  
+![ppflash插件下載](https://github.com/Yueem/T6/blob/main/ppflash.zip)  
+解壓縮後就可以移入指定文件夾下
+
 # 測試不同IP的網路延遲  
 如果遊戲運行不順暢可以使用其他IP，來改善遊戲卡頓的問題。  
 方法如下  

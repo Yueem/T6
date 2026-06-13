@@ -25,66 +25,17 @@
 ![image](https://github.com/Yueem/T6/assets/116643627/e6a6a1b5-42d2-4b68-a9d4-ae000b940219)  
 # Flash插件  
 :open_file_folder:ppflash內含:electric_plug:`pepflashplayer32_29_0_0_171.dll`  
-# 更改遊戲IP  
-如果遊戲運行不順暢可以更改連線IP來改善遊戲卡頓的問題  
+# 測試不同IP的網路延遲  
+如果遊戲運行不順暢可以使用其他IP，來改善遊戲卡頓的問題。  
 方法如下  
-官方共提供3種不同的連線的IP  
-電信
-```
-121.9.243.212 fms.a1.this6.com
-121.9.243.212 a1.this6.com
-121.9.243.212 a.this6.com
-121.9.243.212 a.center.this6.com
-121.9.243.212 s.a1.this6.com
-121.9.243.212 www.this6.com
-121.9.243.216 zhaijidi.com
-121.9.243.216 www.zhaijidi.com
-121.9.243.21 m.this6.com
-121.9.243.216 a1.zhaijidi.com
-```
-聯通  
-```
-163.177.178.196 fms.a1.this6.com
-163.177.178.196 a1.this6.com
-163.177.178.196 a.this6.com
-163.177.178.196 a.center.this6.com
-163.177.178.196 s.a1.this6.com
-163.177.178.196 www.this6.com
-163.177.178.200 zhaijidi.com
-163.177.178.200 www.zhaijidi.com
-163.177.178.200 m.this6.com
-163.177.178.200 a1.zhaijidi.com
-```
-移動  
-```
-183.232.9.206 fms.a1.this6.com
-183.232.9.206 a1.this6.com
-183.232.9.206 a.this6.com
-183.232.9.206 a.center.this6.com
-183.232.9.206 s.a1.this6.com
-183.232.9.206 www.this6.com
-183.232.9.205 zhaijidi.com
-183.232.9.205 www.zhaijidi.com
-183.232.9.205 m.this6.com
-183.232.9.205 a1.zhaijidi.com
-```   
-可在`cmd`中ping看看3種IP，選一組連線時間最短。
+官方共提供4種不同的連線的IP  
+<img width="199" height="444" alt="image" src="https://github.com/user-attachments/assets/4b4d41ce-23c5-40dd-8998-6dcd25622d3b" />  
+
+可在`命令提示字元`中ping看看4種IP，選一組連線時間最短。
 ```
 ping 121.9.243.212
-ping 163.177.178.196  
-ping 183.232.9.206  
+ping 114.132.58.132
+ping 134.175.217.176
+ping 119.28.137.173
 ```  
-`以系統管理員身份執行`打開cmd，`WIN+R`打`cmd`，按`Ctrl +Shift+ENTER`  
-切換路徑並打開hosts  
-```
-cd C:\Windows\System32\drivers\etc
-notepad hosts  
-```
-選一組IP貼上並保存  
-舉例(在上述測試下，121開頭這組IP對我的網路來說是最快的)
-![image](https://github.com/Yueem/T6/assets/116643627/3563c7ce-61ee-4c93-86fc-8c790ee96460)  
 
-刷新  
-```
-ipconfig /flushdns  
-```  
